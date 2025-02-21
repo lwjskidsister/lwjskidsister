@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agnes
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning anything from different people
+- 🌱 I’m currently learning Ruby on Rails from TOP
 - 💞️ I’m looking to collaborate on anything that catches my interest
 - 📫 How to reach me: bwiza1ak@gmail.com
 - 😄 Pronouns: she/her
